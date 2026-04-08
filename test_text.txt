@@ -1,1 +1,0 @@
-Test text file for learning Git and GitHub
