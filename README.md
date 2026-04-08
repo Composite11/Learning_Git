@@ -6,5 +6,5 @@ Testing
 
 ## POOP
 
-![poop for reference](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdudewipes.com%2Fblogs%2Fdude-blog%2Fhow-to-poop-quietly%3Fsrsltid%3DAfmBOoqEpAtDm_fEt-gy2rv5GpaGk4cK_msMMZ8hJLVMlhTsod-j7pk5&ved=0CBYQjRxqFwoTCMjvqeKS35MDFQAAAAAdAAAAABAj&opi=89978449)
+<img src="https://dudewipes.com/cdn/shop/articles/how-to-poop-quietly_2904fec5-ea1b-4c82-bd6d-f0415b9f30e0.jpg?v=1740076314&width=1400"> poop for reference dawg</img>
 
